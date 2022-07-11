@@ -7,3 +7,4 @@ python-decouple
 djangorestframework_simplejwt
 python-slugify
 drf-yasg
+decouple
