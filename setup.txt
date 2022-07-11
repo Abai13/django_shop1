@@ -8,8 +8,8 @@ Pillow #чтобы проект мог с картинками работать
 
 # устанавливаем вирт.окружение и активируем
 '''
-python3 -m venv env
-source env/bin/activate
+python3 -m venv venv
+source venv/bin/activate
 '''
 
 # Если не установилась версия python, то Ctrl+Shift+P и набрать > python: select interpreter и выбрать окружение
@@ -59,10 +59,11 @@ DATABASES = {
         'NAME': 'shop',
         'HOST': 'localhost',
         'PORT': 5432,
-        'USER': 'asan',
+        'USER': 'abai',
         'PASSWORD': '1',
     }
 }
+
 '''
 
 # настроим язык и timezone
@@ -112,5 +113,8 @@ Quit the server with CONTROL-C.'''
 
 # переходим по ссылке http://127.0.0.1:8000/
 
-email: test@gmail.com
+email: abai13@mail.ru
 pass: 1
+
+abai1308@mail.ru
+123456789
